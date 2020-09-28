@@ -10,7 +10,7 @@ The project was generated with react-create-app.
 
 ## Dev Server
 
-Run `yarn run start` for a dev server. Navigate to http://localhost:4200/.
+Run `yarn run start` for a dev server. Navigate to http://localhost:3000/.
 
 ## Build
 
