@@ -12,7 +12,7 @@ The project was generated with react-create-app.
 
 - React,
 - Web3,
-- Metamask (for interface with digital wallets),
+- Metamask (for interface with digital wallets), for testing purposes I used the Ropsten Etheruem Test Network and used a Faucet to generate test Ether,
 - Copy of a previously created Smart Contract on the blockchain.
 
 
