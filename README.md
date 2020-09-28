@@ -1,11 +1,19 @@
 # React-Lottery
 
+Simple SPA to create an Etheruem Lottery Smart Contract.
+
+Allows users (players) to enter the lottery by specifiying the amount of Ether to enter and clicking on the enter button.
+
+The manager (admin user) can then choose a winner by selecting the 'Pick a winner' button. The chosen winner will then be deposited with the Ether.
+
 The project was generated with react-create-app.
 
-## Libraries used:
+## Libraries/Tech used:
 
-- React
-- Web3
+- React,
+- Web3,
+- Metamask (for interface with digital wallets),
+- Copy of a previously created Smart Contract on the blockchain.
 
 
 ## Dev Server
